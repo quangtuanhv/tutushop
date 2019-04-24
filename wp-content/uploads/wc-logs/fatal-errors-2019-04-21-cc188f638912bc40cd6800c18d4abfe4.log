@@ -1,0 +1,26 @@
+2019-04-21T03:01:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php:28
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php on line 28
+
+2019-04-21T03:01:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php:28
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php on line 28
+
+2019-04-21T03:02:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_sale_price() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php:28
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#2 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#3 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php on line 28
+
+2019-04-21T08:32:35+00:00 CRITICAL Object of class WP_Error could not be converted to string in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/templates/home.php on line 57
+
